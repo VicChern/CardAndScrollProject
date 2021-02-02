@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Card And Scroll Project</string>
+    <string name="guess_who">Guess Who?</string>
+    <string name="small_birdie">Small birdie</string>
+    <string name="check_the_name">Check the name</string>
+    <string name="javascript_section">JavaScript Section</string>
+    <string name="this_is_a_small_guid_how_to_achive_fullstack_skills_for_javascript_react_dev">This is a small guid how to achive fullstack skills for Javascript React dev</string>
+    <string name="check_now">Check Now</string>
+</resources>
