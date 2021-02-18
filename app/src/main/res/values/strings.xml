@@ -4,6 +4,10 @@
     <string name="small_birdie">Small birdie</string>
     <string name="check_the_name">Check the name</string>
     <string name="javascript_section">JavaScript Section</string>
-    <string name="this_is_a_small_guid_how_to_achive_fullstack_skills_for_javascript_react_dev">This is a small guid how to achive fullstack skills for Javascript React dev</string>
-    <string name="check_now">Check Now</string>
+    <string name="python_section">Python Section</string>
+    <string name="java_section">Java Section</string>
+    <string name="description_fullstack">This is a small guid how to achieve fullstack skills for Javascript React Developer</string>
+    <string name="description_java">This is a small guid how to achieve backend skills for Java Developer</string>
+    <string name="description_python">This is a small guid how to achieve machine learning skills for Python Developer</string>
+    <string name="check_now">CHECK NOW</string>
 </resources>
